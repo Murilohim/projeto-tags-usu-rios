@@ -1,7 +1,7 @@
 
 ## :memo: Descrição
 
-Projeto desenvolvido como parte do case da ignição digital. Este repositório contém o back end do sistema de gerenciamento de clientes, uma API que permite criar, editar, listar e excluir clientes, além de associar tags aos clientes registrados.
+Projeto desenvolvido como parte de case. Este repositório contém o back end do sistema de gerenciamento de clientes, uma API que permite criar, editar, listar e excluir clientes, além de associar tags aos clientes registrados.
 
 ## :books: Funcionalidades
 
