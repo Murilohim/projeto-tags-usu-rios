@@ -1,7 +1,7 @@
 
 ## :memo: Descrição
 
-Projeto Full stack realizado como case da ignição digital. Este repositório contém a parte de front end do projeto, onde foram implementadas três páginas principais: uma página inicial com informações sobre a plataforma, uma página sobre a empresa e uma página de clientes. A página de clientes integra-se com a API construída pelo back end para realizar operações como cadastro, edição, exclusão e visualização de clientes e suas tags.
+Projeto Full stack realizado como case. Este repositório contém a parte de front end do projeto, onde foram implementadas três páginas principais: uma página inicial com informações sobre a plataforma, uma página sobre a empresa e uma página de clientes. A página de clientes integra-se com a API construída pelo back end para realizar operações como cadastro, edição, exclusão e visualização de clientes e suas tags.
 
 ## :books: Funcionalidades
 
