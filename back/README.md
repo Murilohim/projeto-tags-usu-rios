@@ -1,8 +1,3 @@
-<h1 align="center"> Case Ignição Digital - back end</h1>
-
-<p align="center">
-  <img src="https://igd-wp-uploads-pluginaws.s3.amazonaws.com/wp-content/uploads/2016/06/16233501/cropped-logo_ignicao_digital2.png" width="200">
-</p>
 
 ## :memo: Descrição
 
